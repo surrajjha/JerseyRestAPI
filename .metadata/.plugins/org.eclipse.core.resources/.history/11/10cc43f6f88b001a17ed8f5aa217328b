@@ -1,0 +1,22 @@
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+import com.pluralsight.client.ActivityClient;
+import com.pluralsight.model.Activity;
+
+import org.junit.Test;
+
+public class ActivityClientTest {
+
+	@Test
+	public void testGet() {
+//		fail("Not yet implemented");
+		ActivityClient client = new ActivityClient();
+		Activity activity = client.get("1234");
+		System.out.println(activity);
+		
+		assertNotNull(activity);
+		}
+
+}

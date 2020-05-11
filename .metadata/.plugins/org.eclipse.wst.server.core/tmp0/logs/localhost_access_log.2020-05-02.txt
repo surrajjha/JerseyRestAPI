@@ -1,0 +1,7 @@
+127.0.0.1 - - [02/May/2020:03:05:37 +0530] "GET / HTTP/1.1" 404 706
+127.0.0.1 - - [02/May/2020:03:05:58 +0530] "GET /exercise-services/webapi/activities/1234 HTTP/1.1" 200 177
+127.0.0.1 - - [02/May/2020:03:19:30 +0530] "GET /exercise-services/webapi/activities/1234 HTTP/1.1" 200 177
+127.0.0.1 - - [02/May/2020:03:27:25 +0530] "GET /exercise-services/webapi/activities/1234 HTTP/1.1" 200 177
+127.0.0.1 - - [02/May/2020:03:43:20 +0530] "GET /exercise-services/webapi/activities/1234 HTTP/1.1" 200 177
+127.0.0.1 - - [02/May/2020:03:44:16 +0530] "GET /exercise-services/webapi/activities/1234 HTTP/1.1" 200 177
+127.0.0.1 - - [02/May/2020:19:59:53 +0530] "GET / HTTP/1.1" 404 706
